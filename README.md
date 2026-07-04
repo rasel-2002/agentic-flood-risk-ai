@@ -1,4 +1,5 @@
 # 🌊 Agentic AI Flood Risk Detection System
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21193891.svg)](https://doi.org/10.5281/zenodo.21193891)] 
 
 An autonomous AI agent that monitors real-time weather conditions, predicts flood risk using a trained Machine Learning model, and proactively sends emergency alerts via Telegram — without requiring step-by-step human instructions at each stage.
 
